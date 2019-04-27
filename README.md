@@ -2,6 +2,8 @@
 Scrapes data from a users tweet history with the time it was created, the number of likes on each post, the amount of times it was retweets and the text
 
 MUST Enter Twitter Developer Credentials to Run program.
+https://developer.twitter.com/en/apps
+Must Create an app and go to the tab labeled keys and tokens.
 
 This code was made through jupyter notebook with the tweepy api.
 
